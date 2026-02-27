@@ -11,4 +11,4 @@ The data contains reports of crime incidents, with the date, neighborhood, crime
   <li>Which crime type results in the most arrests?</li>
 </ol>
 
-The repository also contains a video explanation of the analysis and the findings.
+The repository also contains a video explanation of the analysis and the findings under the file Recordin copy.mp4. The file must be downloaded to view.
